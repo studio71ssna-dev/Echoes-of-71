@@ -124,6 +124,7 @@ namespace SingletonManagers
                 OnInteract?.Invoke();
             }
         }
+
         public void PauseAction(InputAction.CallbackContext context)
         {
             if (context.performed)
