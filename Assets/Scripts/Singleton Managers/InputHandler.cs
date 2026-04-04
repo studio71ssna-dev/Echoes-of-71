@@ -3,6 +3,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using Singleton;
+using UnityEngine.Events;
 
 namespace SingletonManagers
 {
