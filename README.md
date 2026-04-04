@@ -1,6 +1,6 @@
 <div align="center">
 
-#   🎮 3knot3 🎮
+#   🎮 Echoes of 71 🎮
 
  <p><em>A top-down 2.5D shooting game based on the 1971 Liberation War of Bangladesh.</em></p>
 
